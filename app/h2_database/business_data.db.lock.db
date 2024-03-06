@@ -1,0 +1,6 @@
+#FileLock
+#Wed Mar 06 11:32:01 CET 2024
+server=192.168.56.1\:51021
+hostName=Mathis
+method=file
+id=18e1351e0dc9a8011cc9029507a9a774922d15f7186
